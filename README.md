@@ -1,2 +1,2 @@
 # project_D
-basic Drumkit website
+Basic Drumkit Website
